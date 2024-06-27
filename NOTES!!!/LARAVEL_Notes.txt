@@ -1,0 +1,7 @@
+PHP LARAVEL
+
+MVC pattern(Model, Controller, View)
+
+model=>Object/mapping data into item/packet/cluster
+controller=>routes the requests
+view=>response with the results
